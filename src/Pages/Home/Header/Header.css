@@ -1,0 +1,49 @@
+.primary-btn{
+    background-image: linear-gradient(to right, #ee0979 , #ff6a00);
+    border: 1px solid #ff6a00;
+    border-radius: 2rem;
+}
+.primary-btn:hover{
+    background-image: linear-gradient(to right,#ff6a00, #ee0979 );
+}
+.border-none{
+    border: none;
+}
+.cartAmountBadge {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    top: 9px;
+    left: 24px;
+    border-radius: 50%;
+    background-image: linear-gradient(to right, #ee0979 , #ff6a00);
+    color: white;
+    font-size: 70%;
+    font-weight: bold;
+}
+.p-relative{
+    position: relative;
+}
+.logo-fluid{
+    width: 9.5rem;
+    height: 2.5rem;
+}
+.simple-border{
+    border: 1px solid #ff6a00;
+    border-radius: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .res-align-center{
+    display: flex;
+    justify-content: center;
+    }
+    .res-ms-null{
+        margin-left: 0 !important;
+    }
+    .res-me-null{
+    margin-right: 0 !important;
+    }
+}

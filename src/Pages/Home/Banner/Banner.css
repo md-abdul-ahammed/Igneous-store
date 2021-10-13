@@ -1,0 +1,48 @@
+.bg-img{
+    background-image: url('../../../images/bannerbackground.png');
+    height: 31.25rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.ms-n25{
+    margin-left: -6.25rem;
+}
+.focus-input:focus{
+    box-shadow: 0px 0px 3px #ee0979;
+}
+
+
+@media only screen and (max-width: 414px) {
+    .bg-img{
+        height: 9rem;
+    }
+    .res-font-size{
+        font-size: 1rem;
+    }
+    .primary-btn{
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .simple-border{
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .res-px-2{
+        padding-left: 0.5rem !important;
+        padding-right: 00.5rem !important;
+    }
+    .ms-n25{
+        margin-left: -4.25rem;
+    }
+    
+}
+@media only screen and (min-width:415px) and (max-width: 540px){
+    .bg-img{
+        height: 13.25rem;
+    }
+}
+@media only screen and (min-width:541px) and (max-width: 768px){
+    .bg-img{
+        height: 18.25rem;
+    }
+}
