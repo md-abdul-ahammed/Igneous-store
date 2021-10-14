@@ -5,10 +5,11 @@
     background-repeat: no-repeat;
 }
 .ms-n25{
-    margin-left: -6.25rem;
+    margin-left: -6.1875rem;
 }
 .focus-input:focus{
     box-shadow: 0px 0px 3px #ee0979;
+    border: none;
 }
 
 
@@ -32,7 +33,7 @@
         padding-right: 00.5rem !important;
     }
     .ms-n25{
-        margin-left: -4.25rem;
+        margin-left: -4.125rem;
     }
     
 }

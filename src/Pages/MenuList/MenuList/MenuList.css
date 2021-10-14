@@ -1,0 +1,4 @@
+.hover-shadow:hover{
+    box-shadow: 0px 0px 10px grey;
+    border-radius:26px !important;
+}

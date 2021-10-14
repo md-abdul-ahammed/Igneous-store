@@ -1,0 +1,18 @@
+
+.active-btn{
+    background-color: white;
+    border: 0;
+    padding: 5px 10px;
+    border-bottom: 3px solid white;
+    border-radius: 7px;
+}
+.active-btn:hover {
+    color: #ff6a00;
+    border-bottom: 3px solid #ee0979;
+    border-radius: 7px;
+}
+.active{
+    color: #ff6a00;
+    border-bottom: 3px solid #ee0979;
+    border-radius: 7px;
+}
