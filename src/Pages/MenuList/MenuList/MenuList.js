@@ -5,7 +5,7 @@ import './MenuList.css'
 const MenuList = ({ menu }) => {
     const { name, img, price, description } = menu;
     return (
-        <Col>
+        <Col className='px-2'>
             <Card className='h-100 p-3 border-0 hover-shadow text-center'>
                 <Card.Img variant="top" src={img} className='img-fluid' />
                 <Card.Body className='p-0'>

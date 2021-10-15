@@ -33,7 +33,6 @@ const Home = () => {
     }, [show])
     return (
         <div>
-            <Header></Header>
             <Banner></Banner>
             <div className='container'>.
                 <div className='d-flex p-5 justify-content-around w-50 mx-auto'>
@@ -42,17 +41,17 @@ const Home = () => {
                     <button onClick={() => setShow('dinner')} className={show === 'dinner' ? "d-block active active-btn fw-bold" : "d-block active-btn fw-bold"}>Dinner</button>
                 </div>
 
-                <Row xs={1} md={3} className="g-5">
+                <Row xs={1} md={3} className="g-2">
                     {
                         menus.map(menu => <MenuList
-                            key={menu.key}
+                            key={menu.id}
                             menu={menu}
                         ></MenuList>)
                     }
                 </Row>
             </div>
             <AboutUs></AboutUs>
-            <Footer></Footer>
+
         </div>
     );
 };

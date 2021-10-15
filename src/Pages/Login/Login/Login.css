@@ -1,0 +1,16 @@
+.primary-input{
+    width: 22rem;
+}
+.logo2-fluid{
+    width: 21rem;
+    height: 5.5rem;
+}
+
+
+@media only screen and (max-width: 991px){
+    .res-flex-column{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 3rem;
+    }
+}
