@@ -5,6 +5,7 @@
         "img": "https://i.ibb.co/5KgNySz/breakfast4.png",
         "price": 74,
         "description": "accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "breakfast"
     },
     {
@@ -13,6 +14,7 @@
         "img": "https://i.ibb.co/WHM9knT/breakfast5.png",
         "price": 85,
         "description": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ",
         "category": "breakfast"
     },
     {
@@ -21,6 +23,7 @@
         "img": "https://i.ibb.co/GWVFXQj/breakfast3.png",
         "price": 88,
         "description": "dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "breakfast"
     },
     {
@@ -29,6 +32,7 @@
         "img": "https://i.ibb.co/3WdnXDg/breakfast1.png",
         "price": 81,
         "description": "sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "breakfast"
     },
     {
@@ -37,6 +41,7 @@
         "img": "https://i.ibb.co/hCRBT1L/breakfast6.png",
         "price": 54,
         "description": "velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "breakfast"
     },
     {
@@ -45,6 +50,7 @@
         "img": "https://i.ibb.co/3kypPY4/breakfast6.png",
         "price": 65,
         "description": "ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "breakfast"
     },
     {
@@ -53,6 +59,7 @@
         "img": "https://i.ibb.co/0rCJPh9/lunch6.png",
         "price": 87,
         "description": "amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "lunch"
     },
     {
@@ -61,6 +68,7 @@
         "img": "https://i.ibb.co/qYmxFY9/lunch5.png",
         "price": 85,
         "description": "ut massa volutpat convallis morbi odio odio elementum eu interdum",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "lunch"
     },
     {
@@ -69,6 +77,7 @@
         "img": "https://i.ibb.co/qjJz55Y/lunch4.png",
         "price": 50,
         "description": "sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "lunch"
     },
     {
@@ -77,6 +86,7 @@
         "img": "https://i.ibb.co/jZ1pgW5/lunch3.png",
         "price": 67,
         "description": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "lunch"
     },
     {
@@ -85,6 +95,7 @@
         "img": "https://i.ibb.co/n7d7R3p/lunch2.png",
         "price": 62,
         "description": "aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condiment",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "lunch"
     },
     {
@@ -93,6 +104,7 @@
         "img": "https://i.ibb.co/xHwHsSM/lunch1.png",
         "price": 53,
         "description": "et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "lunch"
     },
     {
@@ -101,6 +113,7 @@
         "img": "https://i.ibb.co/VvPMGW1/dinner6.png",
         "price": 90,
         "description": "sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridic",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "dinner"
     },
     {
@@ -109,6 +122,7 @@
         "img": "https://i.ibb.co/PQhHGhm/dinner5.png",
         "price": 92,
         "description": "ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "dinner"
     },
     {
@@ -117,6 +131,7 @@
         "img": "https://i.ibb.co/VxbF6HS/dinner4.png",
         "price": 95,
         "description": "quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "dinner"
     },
     {
@@ -125,6 +140,7 @@
         "img": "https://i.ibb.co/TtczS2V/dinner3.png",
         "price": 68,
         "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "dinner"
     },
     {
@@ -133,6 +149,7 @@
         "img": "https://i.ibb.co/6yK8c6c/dinner1.png",
         "price": 50,
         "description": "congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "dinner"
     },
     {
@@ -141,6 +158,7 @@
         "img": "https://i.ibb.co/ygnWn1H/dinner2.png",
         "price": 59,
         "description": "lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis",
+        "descriptionLong": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem sed interdum venenatis turpis enim blandit mi in porttitor pede  vulputate nonummy maecenas tincidunt lacus at velit vivamus ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
         "category": "dinner"
     }
 ]

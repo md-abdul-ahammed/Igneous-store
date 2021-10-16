@@ -3,8 +3,6 @@ import { Row } from 'react-bootstrap';
 import MenuList from '../../MenuList/MenuList/MenuList';
 import AboutUs from '../AboutUs/AboutUs';
 import Banner from '../Banner/Banner';
-import Footer from '../Footer/Footer';
-import Header from '../Header/Header';
 import './Home.css'
 
 const Home = () => {
