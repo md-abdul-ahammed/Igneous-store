@@ -28,9 +28,7 @@ const MenuDetails = () => {
             setIncrease(0)
         }
     }
-    const handleAddToCart = () => {
 
-    }
 
 
     return (
